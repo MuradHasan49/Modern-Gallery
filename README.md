@@ -4,7 +4,7 @@ A modern, fully responsive front-end gallery layout built using **pure HTML and 
 This design features elegant animations, smooth hover effects, and a stylish navigation and footer system.  
 
 ## 🚀 Live Demo
-🔗 [tournamentmanagerpro.netlify.app](https://tournamentmanagerpro.netlify.app)
+🔗 [morderngallery.netlify.app](morderngallery.netlify.app)
 
 ## 🖼️ Overview
 
